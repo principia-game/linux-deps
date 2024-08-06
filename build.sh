@@ -49,4 +49,4 @@ dep_SDL2() {
 	DESTDIR="$OUTDIR" ninja install
 }
 
-build SDL2 "2.30.5"
+build SDL2 "2.30.6"
